@@ -1,6 +1,7 @@
 ---
-title: "First Website"
+title: "Afrah's Website"
 ---
+![](images/afrah.jpg){width=250px}
 
 This is a Quarto website.
 
