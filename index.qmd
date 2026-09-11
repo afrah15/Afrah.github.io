@@ -1,6 +1,7 @@
 ---
-title: "quarto"
+title: "Afrah Zilani"
 ---
+![](images/afrah.jpg){width=200px}
 
 This is a Quarto website.
 
